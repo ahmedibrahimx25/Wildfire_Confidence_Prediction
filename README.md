@@ -88,7 +88,4 @@ The combination of advanced spatio-temporal feature engineering and a powerful T
 3.  **Place data:** Create a `data/` folder in the root directory and place the raw `.csv` dataset files inside it.
 
 4.  **Execute the script:**
-    ```bash
-    python model.py
-    ```
     The script will perform all steps from data combination to final evaluation and print the results to the console.
